@@ -1,0 +1,4 @@
+source;share/talkerlistener/local_setup.bash
+source;share/talkerlistener/local_setup.dsv
+source;share/talkerlistener/local_setup.sh
+source;share/talkerlistener/local_setup.zsh

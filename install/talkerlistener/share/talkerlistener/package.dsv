@@ -1,0 +1,8 @@
+source;share/talkerlistener/hook/cmake_prefix_path.ps1
+source;share/talkerlistener/hook/cmake_prefix_path.dsv
+source;share/talkerlistener/hook/cmake_prefix_path.sh
+source;share/talkerlistener/local_setup.bash
+source;share/talkerlistener/local_setup.dsv
+source;share/talkerlistener/local_setup.ps1
+source;share/talkerlistener/local_setup.sh
+source;share/talkerlistener/local_setup.zsh
